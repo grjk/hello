@@ -1,0 +1,12 @@
+{
+  "name": "joshicgr/328/hello",
+  "authors": [
+    {
+      "name": "Joshua Kristiansen",
+      "email": "jkristiansen@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
